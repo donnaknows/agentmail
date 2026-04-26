@@ -1,0 +1,10 @@
+{
+  "name": "agentmail",
+  "version": "1.0.0",
+  "description": "OpenClaw AgentSkill for AgentMail — send and receive emails from your AI agent",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/donnaknows/agentmail"
+  }
+}
